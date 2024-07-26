@@ -1,13 +1,13 @@
 # Welcome to My Portfolio
 
-Hello! I'm **Pranita Rajput**, a passionate frontend developer. Leveling up my technical skills through an apprenticeship at Crio.Do, I have developed a strong foundation in web development and design. This portfolio showcases my journey and projects.
+Hello! I'm **Pranita Rajput**, a passionate frontend developer. Leveling up my technical skills through an apprenticeship at Crio.Do, I have developed a strong foundation in web development and design. This portfolio showcases my journey and projects
 
 ## Skills
 
 - **Frontend Development:** HTML, CSS, JavaScript, React
 - **Version Control:** Git, GitHub
 - **Other Tools:** Vercel, GitHub Pages
-
+---
 ## Projects
 
 ### Project 1: QTrip-Static
@@ -36,7 +36,7 @@ Hello! I'm **Pranita Rajput**, a passionate frontend developer. Leveling up my t
   - Utilized DOM Manipulation skills to update the content as per the requirements.
   - Performed Conditional Rendering to render the Next and Submit buttons as per the requirements.
 - **Live Demo:** [Link to live project]
-
+---
 ## Experience
 
 ### Apprenticeship in IT
@@ -59,7 +59,7 @@ Hello! I'm **Pranita Rajput**, a passionate frontend developer. Leveling up my t
     - React Router, Material UI, Debouncing, Module-scoped CSS
   - **Deployment:**
     - Frontend Deployment using Vercel
-
+---
 ## Education
 
 - **Bachelor's in Pharmacy**
