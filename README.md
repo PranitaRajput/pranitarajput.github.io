@@ -23,21 +23,21 @@ Welcome to my portfolio! I am a frontend developer with a background in pharmacy
 - **Duration:** 01-Jan-2024 to present
 - **Key Learnings:**
   - **Web Development:**
-    - HTML, CSS, Box Model, Flexbox, Grids, Positioning
-    - Responsive Design, Bootstrap
+  - HTML, CSS, Box Model, Flexbox, Grids, Positioning
+  - Responsive Design, Bootstrap
   - **Web Technologies:**
-    - HTTP, REST
+  - HTTP, REST
   - **Development Tools:**
-    - Git, Linux, Chrome Developer Tools, Reading Figma files
+  - Git, Linux, Chrome Developer Tools, Reading Figma files
   - **JavaScript:**
-    - ES6 features, DOM manipulation, Asynchronous JavaScript
-    - Forms, Event Handling, Objects and Classes, Web APIs, localStorage
+  - ES6 features, DOM manipulation, Asynchronous JavaScript
+  - Forms, Event Handling, Objects and Classes, Web APIs, localStorage
   - **ReactJS:**
-    - States and Props, Class-Based Components, Functional Components
-    - Lifecycle Methods, Hooks and Custom Hooks, Controlled Components
-    - React Router, Material UI, Debouncing, Module-scoped CSS
+  - States and Props, Class-Based Components, Functional Components
+  - Lifecycle Methods, Hooks and Custom Hooks, Controlled Components
+  - React Router, Material UI, Debouncing, Module-scoped CSS
   - **Deployment:**
-    - Frontend Deployment using Vercel
+  - Frontend Deployment using Vercel
 
 ---
 
@@ -45,9 +45,9 @@ Welcome to my portfolio! I am a frontend developer with a background in pharmacy
 
 ### Project 1: QTrip-Static
 - **Description:** QTrip is a travel website aimed at travelers looking for a multitude of adventures in different cities. During the course of this project:
-  - Created 3 different web pages from Wireframe layout using HTML and CSS
-  - Utilized Bootstrap extensively for responsive design
-  - Deployed the website to Vercel
+- Created 3 different web pages from Wireframe layout using HTML and CSS
+- Utilized Bootstrap extensively for responsive design
+- Deployed the website to Vercel
 - **Live Demo:** [QTrip-Static](https://qtrip-static-abdfvezzu-pranita-rajputs-projects.vercel.app) 
 
 ### Project 2: XCruise-Landing Page
@@ -57,17 +57,17 @@ Welcome to my portfolio! I am a frontend developer with a background in pharmacy
 ### Project 3: Simple To-Do List App
 - **Description:** This is a To-Do List application built using HTML, CSS, and JavaScript. It allows users to manage their tasks efficiently with features like adding, deleting, and marking tasks as complete.
   - **Features:**
-    - Add, delete tasks.
-    - Mark tasks as complete/incomplete.
-    - Responsive design.
+  - Add, delete tasks.
+  - Mark tasks as complete/incomplete.
+  - Responsive design.
   - **Technologies Used:** HTML, CSS, JavaScript.
 - **Live Demo:** [Link to live project]
 
 - ### Project 4: Xquiz App
 - **Description:** This is a simple quiz application built using HTML, CSS, and JavaScript. It allows users to choose their answers from the given options and move to the next question. Upon completion of the quiz, it displays scores. During the course of the project:
-  - Created a quiz application’s front-end from scratch.
-  - Utilized DOM Manipulation skills to update the content as per the requirements.
-  - Performed Conditional Rendering to render the Next and Submit buttons as per the requirements.
+- Created a quiz application’s front-end from scratch.
+- Utilized DOM Manipulation skills to update the content as per the requirements.
+- Performed Conditional Rendering to render the Next and Submit buttons as per the requirements.
 - **Live Demo:** [Link to live project] 
 
 ---
