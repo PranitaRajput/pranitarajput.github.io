@@ -1,1 +1,11 @@
-theme: jekyll-theme-minimal
+title: Pranita Rajput # your name (or website title) here
+logo: "/profile.png?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Frontend Engineer
+  <br><br>
+  <a href="pranitarajput6795@gmail.com">pranitarajput6795@gmail.com</a>
+  <br>
+  <a href="www.linkedin.com/in/pranita-rajput-web-developer">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/PranitaRajput">Gihub</a>
+  theme: jekyll-theme-minimal
