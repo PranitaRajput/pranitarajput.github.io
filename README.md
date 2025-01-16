@@ -1,6 +1,6 @@
 # Portfolio
 
-Welcome to my portfolio! I am a frontend developer with a background in pharmacy, now focused on creating intuitive and responsive web applications. My journey into IT began through an apprenticeship at Crio.Do, and I've since honed my skills in web development, with a particular focus on React and Javascript.
+Welcome to my portfolio! I am a frontend developer with a passion for coding, now focused on creating intuitive and responsive web applications. My journey into IT began through an apprenticeship at Crio.Do, and I've since honed my skills in web development, with a particular focus on React and Javascript.
 
 ---
 
